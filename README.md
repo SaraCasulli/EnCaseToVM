@@ -3,5 +3,5 @@ Questo tool presenta come obiettivo l’agevolazione del ritrovamento di informa
 
 ## Avvio
 Per avviare il tool è necessario eseguire i seguenti step:
--Effettuare il download o il clone di questo repository; /n
--Aprire il terminale del proprio computer ed eseguire il comando *python* (o python3) seguito dal percorso del file *EnCaseToVM.py*
+* Effettuare il download o il clone di questo repository; --
+* Aprire il terminale del proprio computer ed eseguire il comando *python* (o python3) seguito dal percorso del file *EnCaseToVM.py*
