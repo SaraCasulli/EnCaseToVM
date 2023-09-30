@@ -143,7 +143,7 @@ customtkinter.set_default_color_theme("blue")
 window = customtkinter.CTk()
 
 
-window.iconbitmap("/home/sara/Desktop/Tesi project/1_eCF_icon.ico")
+
 window.grid_columnconfigure(1, weight=1)
 window.grid_columnconfigure((2, 3), weight=0)
 window.grid_rowconfigure((0, 1, 2), weight=1)
